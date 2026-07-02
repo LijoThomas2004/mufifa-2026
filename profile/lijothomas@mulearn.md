@@ -96,9 +96,9 @@ I am currently building my public portfolio through GitHub projects, coding prac
 - Networking Basics
 - Cybersecurity Fundamentals
 
-**GitHub:** https://github.com/yourusername
+**GitHub:** https://github.com/LijoThomas2004
 
-**LinkedIn:** https://linkedin.com/in/yourusername
+**LinkedIn:**https://www.linkedin.com/in/lijo-thomas
 
 ## History of Leadership
 
