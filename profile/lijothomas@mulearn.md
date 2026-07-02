@@ -60,8 +60,10 @@ I have participated in technical learning communities where I explored cybersecu
 
 ## Domain Profiles
 
-- **GitHub:** https://github.com/LijoThomas2004
-- **LinkedIn:** https://www.linkedin.com/in/lijo-thomas
+- **GitHub:**
+- https://github.com/LijoThomas2004
+- **LinkedIn:**
+- https://www.linkedin.com/in/lijo-thomas
 
 
 ## Tools, Workflows & Automations
@@ -96,9 +98,11 @@ I am currently building my public portfolio through GitHub projects, coding prac
 - Networking Basics
 - Cybersecurity Fundamentals
 
-**GitHub:** https://github.com/LijoThomas2004
+**GitHub:**
+https://github.com/LijoThomas2004
 
-**LinkedIn:**https://www.linkedin.com/in/lijo-thomas
+**LinkedIn:**
+https://www.linkedin.com/in/lijo-thomas
 
 ## History of Leadership
 
@@ -125,8 +129,9 @@ My long-term goal is to become a skilled software engineer specializing in softw
 ---
 
 # 📋 Profile Card
-<img
-    src="https://mulearn.org/embed/rank/lijothomas@mulearn"
-    width="400px">
-</img>
 
+ <img
+     src="https://mulearn.org/embed/rank/lijothomas@mulearn"
+     width="400px"
+     alt="μLearn profile rank card">
+ </img>
