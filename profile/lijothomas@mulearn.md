@@ -63,7 +63,7 @@ I have participated in technical learning communities where I explored cybersecu
 - **GitHub:**
 - https://github.com/LijoThomas2004
 - **LinkedIn:**
-- https://www.linkedin.com/in/lijo-thomas
+- www.linkedin.com/in/lijo-thomas-741350416
 
 
 ## Tools, Workflows & Automations
@@ -102,7 +102,7 @@ I am currently building my public portfolio through GitHub projects, coding prac
 https://github.com/LijoThomas2004
 
 **LinkedIn:**
-https://www.linkedin.com/in/lijo-thomas
+www.linkedin.com/in/lijo-thomas-741350416
 
 ## History of Leadership
 
