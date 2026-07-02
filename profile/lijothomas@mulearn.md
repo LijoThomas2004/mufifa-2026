@@ -60,7 +60,7 @@ I have participated in technical learning communities where I explored cybersecu
 
 ## Domain Profiles
 
-- **GitHub:**https://github.com/LijoThomas2004
+- **GitHub:** https://github.com/LijoThomas2004
 - **LinkedIn:** https://www.linkedin.com/in/lijo-thomas
 
 
